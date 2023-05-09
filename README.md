@@ -66,9 +66,10 @@ During the interview, we may discuss the following topics related to your implem
 
 Once you have completed the task, please follow these steps:
 
-1. Email the link to your forked repository to tyler@mappingindustries.com.
-2. Ensure that your code is properly documented, and include a README.md file with instructions on how to run your code.
-3. Create a pull request to the original repository.
+1. Fork the original repository.
+2. Email the link to your forked repository to tyler@mappingindustries.com.
+3. Ensure that your code is properly documented, and include a README.md file with instructions on how to run your code.
+4. Create a pull request to the original repository.
 
 ## Conclusion
 We hope this task gives you an opportunity to demonstrate your skills as a full-stack developer and showcase your creativity, problem-solving abilities, and best practices in your code. We look forward to seeing your completed task and discussing your approach and thought process during the interview. Good luck!
